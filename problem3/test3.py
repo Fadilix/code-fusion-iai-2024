@@ -15,7 +15,7 @@ print(matrix)
 max = matrix.max()
 print(max)
 
-print(np.where(matrix==max))
+print(np.where(matrix == max))
 
 # product = 1
 # for r in range(len(grid)):

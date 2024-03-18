@@ -5,4 +5,5 @@ def isAmiable(n):
     # print(r)
     return b == n
 
+
 print(sum([i for i in range(10000) if isAmiable(i)]))
