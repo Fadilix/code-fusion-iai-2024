@@ -15,10 +15,6 @@ def cal(n, b):
         if cb[k] != cn[k]:
             return False
     return True
-    # return [cn, cb]
-
-
-# n = 125874
 
 
 def verify(n):
